@@ -1,0 +1,7 @@
+1. application clean
+2. bureau aggregate → join
+3. installments aggregate → join
+4. previous_application → join
+5. credit_card → join
+6. quick EDA
+7. model
